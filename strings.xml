@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">에어팟 배터리</string>
+    <string name="left">왼쪽</string>
+    <string name="right">오른쪽</string>
+    <string name="case_label">케이스</string>
+    <string name="not_detected">에어팟이 감지되지 않았습니다</string>
+    <string name="waiting_for_airpods">에어팟을 착용하면 자동으로 표시됩니다</string>
+    <string name="connected">연결됨</string>
+    <string name="scanning">스캔 중…</string>
+    <string name="stopped">중지됨</string>
+    <string name="bluetooth_off">블루투스를 켜주세요</string>
+    <string name="permission_denied">권한이 거부되어 작동할 수 없습니다</string>
+    <string name="start_monitoring">모니터링 시작</string>
+    <string name="stop_monitoring">모니터링 중지</string>
+    <string name="notification_channel_name">에어팟 배터리 상태</string>
+</resources>
